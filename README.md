@@ -14,6 +14,5 @@ Welcome to ___alan10607___
 </p>
 
 ### Latest repository
-- <a href="https://github.com/alan10607/Anonygram" target="_blank">Anonygram: React front-end</a>
-- <a href="https://github.com/alan10607/Anonygram-Backend" target="_blank">Anonygram: instagram clone but anonymous</a>
-- <a href="https://github.com/alan10607/webGame" target="_blank">Web games: created by javascript canvas api</a>
+- Anonygram: A trending article web platform created using [Backend (Spring Boot)](https://github.com/alan10607/Anonygram-Backend) and [Frontend (React)](https://github.com/alan10607/Anonygram)
+- [Web game](https://github.com/alan10607/webGame): Mobile phone web games created by javascript canvas api
