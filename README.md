@@ -14,5 +14,7 @@ Welcome to ___alan10607___
 </p>
 
 ### Latest repository
-- Anonygram: A trending article web platform created using [Backend (Spring Boot)](https://github.com/alan10607/Anonygram-Backend) and [Frontend (React)](https://github.com/alan10607/Anonygram)
+
+- [Dr. Penguin](https://github.com/alan10607/dr-penguin): A Line bot AI assistant integrated with LangChain, OpenAI API, DALL-E 3
+- [Anonygram](https://github.com/alan10607/Anonygram): A trending article web platform created using Spring Boot and React
 - [Web game](https://github.com/alan10607/webGame): Mobile phone web games created by javascript canvas api
